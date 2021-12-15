@@ -4,5 +4,5 @@ Tenho 21 anos, sou formado em design, pós-graduando em UI/UX e estudando sobre 
 #
 🤹‍♂️ Sou extremamente sociável <br>
 🧐 Gosto de compartilhar conhecimentos <br>
-📚 Aprendendo sobre HTML, CSS e JavaScript <br>
+📚 Começando no mundo da programação <br>
 🔎 Grande foco em projetos pessoais
