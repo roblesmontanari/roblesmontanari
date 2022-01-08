@@ -7,4 +7,4 @@ Tenho 21 anos, sou formado em design, pós-graduando em UI/UX e estudando sobre 
 📚 Começando no mundo da programação <br>
 🔎 Grande foco em projetos pessoais
 #
-Todos os meus links estão <a href="https://linktr.ee/riblus">aqui</a>!
+Todos os meus links estão <a href="https://linktr.ee/robles">aqui</a>!
