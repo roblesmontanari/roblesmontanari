@@ -5,6 +5,7 @@ Tenho 21 anos, sou formado em design, pós-graduando em UI/UX e estudando sobre 
 🤹‍♂️ Sou extremamente sociável <br>
 🧐 Gosto de compartilhar conhecimentos <br>
 📚 Começando no mundo da programação <br>
+🍎 Aprendendo Swift <br>
 🔎 Grande foco em projetos pessoais
 #
 Todos os meus links estão <a href="https://linktr.ee/robles">aqui</a>!
