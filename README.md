@@ -1,11 +1,12 @@
-# Oi 👋 eu sou o Robles!
+# Hi, i'm Robles! 👋
 
-Tenho 21 anos, sou formado em design, pós-graduando em UI/UX e estudando sobre programação nas muitas horas vagas. Sou uma pessoa comunicativa, motivada e estou sempre procurando algo novo para aprender!
+I'm 21 years old, udnergraduated in design, graduating in UI/UX and studying [Swift](https://www.swift.org/about/) <img alt="Swift icon" src="https://image.flaticon.com/icons/png/512/732/732250.png" width="15" height="15"/> in my spare time. <br>
+I am a communicative person, motivated and I am always looking for something new to learn! 🤓📚
 #
-🤹‍♂️ Sou extremamente sociável <br>
-🧐 Gosto de compartilhar conhecimentos <br>
-📚 Começando no mundo da programação <br>
-🍎 Aprendendo Swift <br>
-🔎 Grande foco em projetos pessoais
+🤹‍♂️ I'm extremely sociable! <br>
+🤗 Really enjoy talking and sharing knowledge. <br>
+🍎 Learning Swift! <br>
+💻 UI/UX is one of my passions! <br>
+🔎 Focusing in personal projects.
 #
-Todos os meus links estão <a href="https://linktr.ee/robles">aqui</a>!
+All my contact/portfolio links are <a href="https://linktr.ee/robles">here</a>! 📫
