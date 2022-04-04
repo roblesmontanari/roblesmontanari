@@ -1,6 +1,6 @@
 # Hi, i'm Robles! 👋
 
-I'm 21 years old, undergraduated in design, graduating in UI/UX and studying [Swift](https://www.swift.org/about/) <img alt="Swift icon" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="15" height="15"/> in my spare time. <br>
+I'm 21 years old, undergraduated in design, graduated in UI/UX and studying [Swift](https://www.swift.org/about/) <img alt="Swift icon" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="15" height="15"/> in my spare time. <br>
 I am a communicative person, motivated and I am always looking for something new to learn! 🤓📚
 #
 🤹‍♂️ I'm extremely sociable! <br>
