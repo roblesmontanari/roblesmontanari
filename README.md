@@ -1,12 +1,10 @@
 # Hi, i'm Robles! 👋
 
-I'm 21 years old, undergraduated in design, graduated in UI/UX and studying [Swift](https://www.swift.org/about/) <img alt="Swift icon" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="15" height="15"/> in my spare time. <br>
-I am a communicative person, motivated and always looking for something new to learn! 🤓📚
+Postgraduated in UI/UX late 2019, graduated in Graphic Design early 2022, studying [Swift](https://www.swift.org/about/) <img alt="Swift icon" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="15" height="15"/> and iOS development since 2021. Worked previously with graphic design, product design, user experience and mobile platforms.
 #
-🤹‍♂️ I'm extremely sociable! <br>
-🤗 Really enjoy talking and sharing knowledge. <br>
-🍎 Learning Swift! <br>
-💻 UI/UX is one of my passions! <br>
+🎮 Really enjoy talking about gaming and e-sports. <br>
+🍎 Learning Swift @ [EBAC](https://ebac.art.br/courses/desenvolvimento-ios-com-swift/) and [Codecademy](https://www.codecademy.com/learn/learn-swift). <br>
+💻 UI/UX is one of my personal passions! <br>
 🔎 Focusing in personal projects.
 #
 All my contact/portfolio links are <a href="https://linktr.ee/robles">here</a>! 📫
